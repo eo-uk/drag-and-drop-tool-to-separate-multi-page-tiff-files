@@ -39,6 +39,7 @@ def main():
             if len(sys.argv) > 1:
                 for path in sys.argv[1:]:
                     separate_tiff(path)
+                    sys.exit()
 
             #If there are no additional sys args, prompt user for file path
             else:
