@@ -3,4 +3,4 @@ Separate multi-page TIFF files with Python.
 ## Usage
 Drag and drop your .tiff files to easily separate them. Or you can run the .py file and enter the path manually.
 ## Dependencies
-Pillow
+* Pillow: https://pypi.org/project/Pillow/
